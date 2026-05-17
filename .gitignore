@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TFM — datos grandes y posiblemente sensibles (no subir por ahora)
+TFM/
+
+# Claude Code settings
+.claude/
