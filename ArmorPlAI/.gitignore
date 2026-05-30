@@ -1,0 +1,57 @@
+# Node
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+dist-ssr/
+.output/
+.vinxi/
+.tanstack/
+.nitro/
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
+
+# Environment & secrets
+*.local
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project archives (private files, not for public repo)
+_archivo/
+
+# Lovable.dev platform metadata (not needed outside that platform)
+.lovable/
+
+# Bun package manager (project uses npm)
+bun.lock
+bunfig.toml
+
+# Cloudflare Workers (not used — SPA mode)
+wrangler.jsonc
+.wrangler/
+
+# OS
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
