@@ -17,8 +17,10 @@ desktop.ini
 # TFM — datos grandes y posiblemente sensibles (no subir por ahora)
 TFM/
 
-# Claude Code settings
+# Claude Code — archivos locales, no subir
 .claude/
+CLAUDE.md
+claude.md
 
 # Notebooks que no van al repo
 Workshop/clases version esteroides.ipynb
