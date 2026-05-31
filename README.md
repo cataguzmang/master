@@ -12,7 +12,6 @@ Repositorio con los notebooks, ejercicios y proyectos del Máster en IA y Data S
 📁 Workshop/           — Workshop de Machine Learning integrado
    └── Workshop_ML.ipynb
 
-📁 TFM/                — Trabajo Fin de Máster (datos locales, no versionado)
 ```
 
 ## Proyectos
