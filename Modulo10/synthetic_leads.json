@@ -1,0 +1,137 @@
+[
+  {
+    "company_name": "Andina de Sabor Real",
+    "country": "Brasil",
+    "category": "Lácteos",
+    "contact_name": "Diego Quispe",
+    "contact_email": "diego.quispe@andinadesaborreal.com.br",
+    "contact_phone": "+55 2142 2679",
+    "exports": true
+  },
+  {
+    "company_name": "Sabores del Sur",
+    "country": "Honduras",
+    "category": "Cereales",
+    "contact_name": "Renzo Hernández",
+    "contact_email": "renzo.hernandez@saboresdelsur.hn",
+    "contact_phone": "+504 2517 1434",
+    "exports": true
+  },
+  {
+    "company_name": "Frutos Tropicalia",
+    "country": "Venezuela",
+    "category": "Conservas",
+    "contact_name": "Isidora Aguirre",
+    "contact_email": "isidora.aguirre@frutostropicalia.com",
+    "contact_phone": "+58 2828 1106",
+    "exports": true
+  },
+  {
+    "company_name": "Granos del Sol Naciente",
+    "country": "Honduras",
+    "category": "Café",
+    "contact_name": "Daniela Hernández",
+    "contact_email": "daniela.hernandez@granosdelsolnaciente.com",
+    "contact_phone": "+504 2104 2519",
+    "exports": true
+  },
+  {
+    "company_name": "Molinos El Trigal",
+    "country": "Costa Rica",
+    "category": "Cereales",
+    "contact_name": "Gabriela Navarro",
+    "contact_email": "gabriela.navarro@molinoseltrigal.cr",
+    "contact_phone": "+506 2747 8527",
+    "exports": true
+  },
+  {
+    "company_name": "Delicias Maya",
+    "country": "El Salvador",
+    "category": "Panadería",
+    "contact_name": "Florencia Ríos",
+    "contact_email": "florencia.rios@deliciasmaya.com.sv",
+    "contact_phone": "+503 2591 4150",
+    "exports": true
+  },
+  {
+    "company_name": "Comercial Buen Campo",
+    "country": "Chile",
+    "category": "Café",
+    "contact_name": "Florencia Morales",
+    "contact_email": "florencia.morales@comercialbuencampo.cl",
+    "contact_phone": "+56 2887 2654",
+    "exports": false
+  },
+  {
+    "company_name": "Cosecha Costa Dorada",
+    "country": "Panamá",
+    "category": "Lácteos",
+    "contact_name": "Noelia Cáceres",
+    "contact_email": "noelia.caceres@cosechacostadorada.com",
+    "contact_phone": "+507 2363 4432",
+    "exports": false
+  },
+  {
+    "company_name": "Abarrotes La Cosecha",
+    "country": "México",
+    "category": "Té",
+    "contact_name": "Sebastián Mejía",
+    "contact_email": "sebastian.mejia@abarroteslacosecha.com",
+    "contact_phone": "+52 2250 3677",
+    "exports": false
+  },
+  {
+    "company_name": "Cosecha Aurora",
+    "country": "Ecuador",
+    "category": "Congelados",
+    "contact_name": "Rocío Domínguez",
+    "contact_email": "rocio.dominguez@cosechaaurora.com.ec",
+    "contact_phone": "+593 2863 1916",
+    "exports": true
+  },
+  {
+    "company_name": "Dulcería Sol Naciente",
+    "country": "Paraguay",
+    "category": "Café",
+    "contact_name": "Camila Hernández",
+    "contact_email": "camila.hernandez@dulceriasolnaciente.com.py",
+    "contact_phone": "+595 2217 9179",
+    "exports": false
+  },
+  {
+    "company_name": "Grupo Altiplano",
+    "country": "Perú",
+    "category": "Alimentos saludables",
+    "contact_name": "Esteban Mamani",
+    "contact_email": "esteban.mamani@grupoaltiplano.com.pe",
+    "contact_phone": "+51 2764 8019",
+    "exports": false
+  },
+  {
+    "company_name": "Comercial Altiplano",
+    "country": "Costa Rica",
+    "category": "Bebestible",
+    "contact_name": "Sofía Ocampo",
+    "contact_email": "sofia.ocampo@comercialaltiplano.cr",
+    "contact_phone": "+506 2773 1771",
+    "exports": true
+  },
+  {
+    "company_name": "Frutos El Trigal",
+    "country": "Argentina",
+    "category": "Cereales",
+    "contact_name": "Camila Vergara",
+    "contact_email": "camila.vergara@frutoseltrigal.com",
+    "contact_phone": "+54 2610 8668",
+    "exports": false
+  },
+  {
+    "company_name": "Andina de Verde Vida",
+    "country": "Venezuela",
+    "category": "Bebestible",
+    "contact_name": "Mateo Domínguez",
+    "contact_email": "mateo.dominguez@andinadeverdevida.com",
+    "contact_phone": "+58 2787 6573",
+    "exports": false
+  }
+]
