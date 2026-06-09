@@ -1,6 +1,0 @@
-{
-  "name": "Stack Strategist Advisor",
-  "description": "Plataforma de consultoría de arquitectura de software y selección de stacks SaaS 2025-2026 para Startups e Indie Hackers.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
